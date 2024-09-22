@@ -61,4 +61,3 @@ variable "ubuntu-linux-sku" {
   description = "Ubuntu Linux Server SKU used to build VMs"
   default     = "22_04-lts"
 }
-
